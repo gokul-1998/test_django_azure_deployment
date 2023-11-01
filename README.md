@@ -1,0 +1,1 @@
+# test_django_azure_deployment
